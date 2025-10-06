@@ -1,15 +1,12 @@
-# 👋 Hey everyone, I'm **Tuan Khoi**
+# 🌟 Hey there! I'm **TuanKhoii**
 
-🎓 I'm a **third-year Computer Science student** passionate about learning and building useful software projects.  
-💻 I enjoy working on web development, data science, and exploring new technologies that make life easier.  
-📚 Currently focusing on improving my programming skills and understanding of system design.
+I’m a curious learner who loves exploring how technology can turn ideas into something real.  
+Coding, for me, is more than just writing lines of code — it’s about creating, experimenting, and learning along the way.  
 
----
+I enjoy working on small projects, trying out new frameworks, and finding simple ways to solve interesting problems.  
+Each project teaches me something new and keeps me motivated to grow as a developer.  
 
-### 🌐 Connect with Me
+Outside of coding, I like discovering new things, improving my skills, and connecting with creative people.  
+I believe progress comes one small step at a time — and I’m always ready for the next one.  
 
-- <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [Nguyen Tuan Khoi](https://linkedin.com/in/ntkhoi2005)
-- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" width="20"/> [Nguyễn Tuấn Khôi](https://facebook.com/ntkhoi2506)
-- <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="20"/> [khoint2005@gmail.com](mailto:khoint2005@gmail.com)
-- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20"/> [Nguyễn Tuấn Khôi](https://instagram.com/ntkhoi2506)
-
+⭐ *"Keep learning, stay curious, and enjoy the journey."*
